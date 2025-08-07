@@ -7,6 +7,7 @@ A continual post-training method for enhancing state-of-the-art (SOTA) LLMs for 
 We propose a continual post-training method that can be applied to various reasoning-focused Large Language Models (LLMs) to further improve their performance. Our approach utilizes Offline Reinforcement Learning with Verifiable Rewards (Offline RLVR) to overcome the limitations of traditional on-policy methods.
 For detailed methodology and experimental results, please refer to our blog post:
 - Blog Post: Continual Post-Training of LLMs via Offline GRPO for Mathematical Reasoning [[KR](https://krafton-ai.github.io/blog/llm_post_training_kr/) / [EN](https://krafton-ai.github.io/blog/llm_post_training_en/)]
+- HuggingFace: [Offline-GRPO Collections](https://huggingface.co/collections/KRAFTON/offline-grpo-6888396558def99dd878097c)
 
 ### Why Offline RLVR?
 
