@@ -61,7 +61,7 @@ Our implementation is built on top of the verl framework and supports plug-and-p
 
 ### Data Download
 We provide pre-processed datasets for training:
-- Download the OpenThought3 filtered math dataset: [Link will be provided]
+- Download the OpenThought3 filtered math dataset: [Google Drive](https://drive.google.com/file/d/1begWXbYfBTJ-qIaG7_Vs0S8AAXv9_7JM/view?usp=sharing)
 - The dataset contains positive and negative reasoning trajectories from teacher models
 
 ### Training
